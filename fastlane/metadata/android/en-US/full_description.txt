@@ -1,0 +1,5 @@
+This modern and beautiful scientific calculator will help you solve all your calculations. It is simple, effective and contains no advertising. It has different themes to suit your phone perfectly.
+
+The app allows you to do simple and quick calculations with many basic functions, including multiplication, division, root, powers, factorials and even trigonometry functions. OpenCalc is customizable to meet all your needs.
+
+Contains no unnecessary ads or permissions. It is fully open source.

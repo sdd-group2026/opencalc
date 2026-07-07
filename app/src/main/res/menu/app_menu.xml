@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/app_menu_clear_history_button"
+        android:title="@string/menu_clear_history"
+        android:onClick="clearHistory" />
+
+    <item
+        android:id="@+id/app_menu_settings_button"
+        android:title="@string/menu_settings"
+        android:onClick="openSettings" />
+
+    <item
+        android:id="@+id/app_menu_about_button"
+        android:title="@string/menu_about"
+        android:onClick="openAbout" />
+
+    <item
+        android:id="@+id/app_menu_unit_converter_button"
+        android:title="@string/menu_unit_converter"
+        android:onClick="openUnitConverter" />
+
+    <item
+        android:id="@+id/app_menu_date_calculator_button"
+        android:title="@string/menu_date_calculator"
+        android:onClick="openDateCalculator" />
+
+    <item
+        android:id="@+id/app_menu_variables_button"
+        android:title="@string/menu_variables"
+        android:onClick="openVariables" />
+
+    <item
+        android:id="@+id/app_menu_steps_button"
+        android:title="@string/menu_steps"
+        android:onClick="openSteps" />
+
+    <!--<item
+        android:id="@+id/app_menu_donate_button"
+        android:title="@string/menu_donate"
+        android:onClick="openDonation" />-->
+</menu>
